@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/UP_Dostal-Schmidt/Scenes/test1.unity
+    guid: 6c4048f52a9a482458d8863721a17c7d
   m_configObjects: {}

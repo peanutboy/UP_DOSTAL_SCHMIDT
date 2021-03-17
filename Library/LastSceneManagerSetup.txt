@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/UP_Dostal-Schmidt/Scenes/SampleScene.unity
+- path: Assets/UP_Dostal-Schmidt/Scenes/test1.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
